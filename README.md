@@ -1,3 +1,3 @@
-DataTechLP
+DevTechLP
 
-http://www.data-tech.cf/
+http://www.dev-tech.cf/
